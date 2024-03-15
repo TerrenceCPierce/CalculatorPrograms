@@ -34,7 +34,7 @@ says the F distribution value of the point
 Outputs the degrees of freedom in the case where the standard deviations are not equal
 in a t distribution (rounds down)
 
-## Thermo
+## Thermodynamics
 ### THERMOCO
 Sets R equal to the Ideal Gas Constant 8.314 J/K⋅mol
 
